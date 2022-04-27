@@ -1,6 +1,6 @@
 - Hi, I’m @emad-askari
 - PhD student in BBME at McGill University
-- I’m interested in Signal Processing and [Data-Driven] Modeling.
+- I’m interested in \italic{Signal Processing} and [Data-Driven] \italic{Modeling}.
 - My email address is emad.askarinejad@mail.mcgill.ca
 
 <!---
